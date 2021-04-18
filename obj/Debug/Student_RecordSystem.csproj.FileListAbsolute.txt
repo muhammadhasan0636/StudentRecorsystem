@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\bin\Debug\Student_RecordSystem.exe.config
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\bin\Debug\Student_RecordSystem.exe
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\bin\Debug\Student_RecordSystem.pdb
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.Form1.resources
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.exe
+C:\Users\HP\source\repos\Student_RecordSystem\Student_RecordSystem\obj\Debug\Student_RecordSystem.pdb
